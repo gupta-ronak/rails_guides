@@ -1,0 +1,10 @@
+<h2>Articles</h2>
+
+  <% @articles.each do |article| %>
+    <li>
+      <%= article.title %>
+    </li>
+  <% end%>
+
+
+<%= button_to "New Article", action: "new"%>
