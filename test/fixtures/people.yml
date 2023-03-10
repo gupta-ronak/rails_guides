@@ -1,0 +1,7 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  terms_of_service: false
+
+two:
+  terms_of_service: false
