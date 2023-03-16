@@ -1,0 +1,2 @@
+class AddAssembliesPartsJoinTable < ApplicationRecord
+end
